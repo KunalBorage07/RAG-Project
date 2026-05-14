@@ -1,0 +1,14 @@
+streamlit
+PyPDF2
+langchain==0.3.25
+langchain-core==0.3.59
+langchain-community==0.3.24
+langchain-google-genai
+langchain-text-splitters
+google-generativeai
+faiss-cpu
+sentence-transformers
+python-dotenv
+huggingface-hub
+transformers
+torch
